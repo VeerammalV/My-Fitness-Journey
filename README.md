@@ -1,3 +1,3 @@
 # My-Fitness-Journey
 
-Just recalling javascript 😭
+Just recalling Javascript 😭
